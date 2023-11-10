@@ -1,0 +1,59 @@
+# 문자열 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181952
+PrintString.py
+
+# a와 b 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=python3
+PringAB.py
+
+# 문자열 반복해서 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181950
+RepeatString.py
+
+# 대소문자 바꿔서 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181949
+UpperLowerChange.py
+
+# 특수문자 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181948
+PrintSpecialChar.py
+
+# 덧셈식 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181947
+PrintAddOperation.py
+
+# 문자열 붙여서 출력하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181946
+StickString.py
+
+# 문자열 돌리기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181945
+SwingString.py
+
+# 홀짝 구분하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181944
+ClassifyOddEven.py
+
+# 문자열 겹쳐쓰기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181943
+OverlapString.py
+
+# 문자열 섞기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181942
+MixString.py
+
+# 문자 리스트를 문자열로 변환하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181941
+ListToString.py
+
+# 문자열 곱하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181940
+MultipleString.py
+
+# 더 크게 합치기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181939
+BiggerAdd.py
+
+# 두 수의 연산값 비교하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181938
+CompareTwoOperation.py
