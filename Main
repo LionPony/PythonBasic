@@ -61,3 +61,11 @@ CompareTwoOperation.py
 # n의 배수
 # https://school.programmers.co.kr/learn/courses/30/lessons/181937
 MultipleOfN.py
+
+# 공배수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181936
+CommonMultiple.py
+
+# 홀짝에 따라 다른 값 반환하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181935
+ReturnByOddEven.py
