@@ -57,3 +57,7 @@ BiggerAdd.py
 # 두 수의 연산값 비교하기
 # https://school.programmers.co.kr/learn/courses/30/lessons/181938
 CompareTwoOperation.py
+
+# n의 배수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181937
+MultipleOfN.py
