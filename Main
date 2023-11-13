@@ -57,3 +57,63 @@ BiggerAdd.py
 # 두 수의 연산값 비교하기
 # https://school.programmers.co.kr/learn/courses/30/lessons/181938
 CompareTwoOperation.py
+
+# n의 배수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181937
+MultipleOfN.py
+
+# 공배수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181936
+CommonMultiple.py
+
+# 홀짝에 따라 다른 값 반환하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181935
+ReturnByOddEven.py
+
+# 조건 문자열
+# https://school.programmers.co.kr/learn/courses/30/lessons/181934
+ConditionString.py
+
+# flag에 따라 다른 값 반환하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181933
+ReturnByFlag.py
+
+# 코드 처리하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181932
+ExecuteCode.py
+
+# 등차수열의 특정한 항만 더하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181931
+ArithmeticPartAdd.py
+
+# 주사위 게임 2
+# https://school.programmers.co.kr/learn/courses/30/lessons/181930
+DiceGame2.py
+
+# 원소들의 곱과 합
+# https://school.programmers.co.kr/learn/courses/30/lessons/181929
+ElementsAddMultiple.py
+
+# 이어 붙인 수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181928
+AttachNumber.py
+
+# 마지막 두 원소
+# https://school.programmers.co.kr/learn/courses/30/lessons/181927
+LastTwoElements.py
+
+# 수 조작하기 1
+# https://school.programmers.co.kr/learn/courses/30/lessons/181926
+OperateNumber1.py
+
+# 수 조작하기 2
+# https://school.programmers.co.kr/learn/courses/30/lessons/181925
+OperateNumber2.py
+
+# 수열과 구간 쿼리3
+# https://school.programmers.co.kr/learn/courses/30/lessons/181924
+SequencePrefixQuery3.py
+
+# 수열과 구간 쿼리2
+# https://school.programmers.co.kr/learn/courses/30/lessons/181923
+SequencePrefixQuery2.py
