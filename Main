@@ -117,3 +117,43 @@ SequencePrefixQuery3.py
 # 수열과 구간 쿼리2
 # https://school.programmers.co.kr/learn/courses/30/lessons/181923
 SequencePrefixQuery2.py
+
+# 수열과 구간 쿼리4
+# https://school.programmers.co.kr/learn/courses/30/lessons/181923
+SequencePrefixQuery4.py
+
+# 배열 만들기 2
+# https://school.programmers.co.kr/learn/courses/30/lessons/181921
+MakingArray2.py
+
+# 카운트 업
+# https://school.programmers.co.kr/learn/courses/30/lessons/181920
+CountUp.py
+
+# 콜라츠 수열 만들기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181919
+ColatzConjecture.py
+
+# 배열 만들기 4
+# https://school.programmers.co.kr/learn/courses/30/lessons/181918
+MakingArray4.py
+
+# 간단한 논리 연산
+# https://school.programmers.co.kr/learn/courses/30/lessons/181917
+SimpleLogicalOperation.py
+
+# 주사위 게임 3
+# https://school.programmers.co.kr/learn/courses/30/lessons/181916
+DiceGame3.py
+
+# 글자 이어 붙여 문자열 만들기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181915
+OrderString.py
+
+# 9로 나눈 나머지
+# https://school.programmers.co.kr/learn/courses/30/lessons/181914
+RemainNine.py
+
+# 문자열 여러 번 뒤집기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181913
+FlipStringMany.py
