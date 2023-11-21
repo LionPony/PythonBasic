@@ -157,3 +157,43 @@ RemainNine.py
 # 문자열 여러 번 뒤집기
 # https://school.programmers.co.kr/learn/courses/30/lessons/181913
 FlipStringMany.py
+
+# 배열 만들기 5
+# https://school.programmers.co.kr/learn/courses/30/lessons/181912
+MakingArray5.py
+
+# 부분 문자열 이어 붙여 문자열 만들기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181911
+AddSubStringToMakeString.py
+
+# 문자열의 뒤의 n글자
+# https://school.programmers.co.kr/learn/courses/30/lessons/181910
+AfterStringNLetters.py
+
+# 접미사 배열
+# https://school.programmers.co.kr/learn/courses/30/lessons/181909
+SuffixArray.py
+
+# 접미사인지 확인하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181908
+CheckSuffix.py
+
+# 문자열의 앞의 n글자
+# https://school.programmers.co.kr/learn/courses/30/lessons/181907
+BeforeStringNLetters.py
+
+# 접두사인지 확인하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181906
+CheckPrefix.py
+
+# 문자열 뒤집기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181905
+FlipString.py
+
+# 세로 읽기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181904
+Acrotic.py
+
+# qr code
+# https://school.programmers.co.kr/learn/courses/30/lessons/181903
+QrCode.py
