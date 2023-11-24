@@ -197,3 +197,59 @@ Acrotic.py
 # qr code
 # https://school.programmers.co.kr/learn/courses/30/lessons/181903
 QrCode.py
+
+# 문자 개수 세기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181902
+CharacterCount.py
+
+# 배열 만들기 1
+# https://school.programmers.co.kr/learn/courses/30/lessons/181901
+MakingArray1.py
+
+# 글자 지우기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181900
+RemoveLetter.py
+
+# 카운트 다운
+# https://school.programmers.co.kr/learn/courses/30/lessons/181899
+CountDown.py
+
+# 가까운 1 찾기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181898
+FindNearOne.py
+
+# 리스트 자르기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181897
+CutList.py
+
+# 첫 번째로 나오는 음수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181896
+FirstNegative.py
+
+# 배열 만들기 3
+# https://school.programmers.co.kr/learn/courses/30/lessons/181895
+MakingArray3.py
+
+# 2의 영역
+# https://school.programmers.co.kr/learn/courses/30/lessons/181894
+AreaOfTwo.py
+
+# 배열 조각하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181893
+SculptureArray.py
+
+# N 번째 원소부터
+# https://school.programmers.co.kr/learn/courses/30/lessons/181892
+FromNthElement.py
+
+# 순서 바꾸기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181891
+ChangeOrder.py
+
+# 왼쪽 오른쪽
+# https://school.programmers.co.kr/learn/courses/30/lessons/181890
+LeftRight.py
+
+# n 번째 원소까지
+# https://school.programmers.co.kr/learn/courses/30/lessons/181889
+ToNthElement.py
