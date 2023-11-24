@@ -253,3 +253,43 @@ LeftRight.py
 # n 번째 원소까지
 # https://school.programmers.co.kr/learn/courses/30/lessons/181889
 ToNthElement.py
+
+# 홀수 vs 짝수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181887
+OddvsEven.py
+
+# 5명씩
+# https://school.programmers.co.kr/learn/courses/30/lessons/181886
+FivePeopleEach.py
+
+# 할 일 목록
+# https://school.programmers.co.kr/learn/courses/30/lessons/181885
+ToDoList.py
+
+# n보다 커질 때까지 더하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181884
+AddUntilBiggerThanN.py
+
+# 수열과 구간 쿼리 1
+# https://school.programmers.co.kr/learn/courses/30/lessons/181883
+SequencePrefixQuery1.py
+
+# 조건에 맞게 수열 변환하기 1
+# https://school.programmers.co.kr/learn/courses/30/lessons/181882
+ChangeSequenceByCondition1.py
+
+# 조건에 맞게 수열 변환하기 2
+# https://school.programmers.co.kr/learn/courses/30/lessons/181881
+ChangeSequenceByCondition2.py
+
+# 1로 만들기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181880
+MakeItOne.py
+
+# 길이에 따른 연산
+# https://school.programmers.co.kr/learn/courses/30/lessons/181879
+OperationByLength.py
+
+# 원하는 문자열 찾기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181878
+FindStringWant.py
