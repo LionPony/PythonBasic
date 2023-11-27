@@ -333,3 +333,43 @@ DivideBySpace1.py
 # 공백으로 구분하기 2
 # https://school.programmers.co.kr/learn/courses/30/lessons/181868
 DivideBySpace2.py
+
+# x 사이의 개수
+# https://school.programmers.co.kr/learn/courses/30/lessons/181867
+NumberBetweenX.py
+
+# 문자열 잘라서 정렬하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181866
+SubStringSort.py
+
+# 간단한 식 계산하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181865
+CalculateSimpleOperation.py
+
+# 문자열 바꿔서 찾기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181864
+StringFindChange.py
+
+# rny_string
+# https://school.programmers.co.kr/learn/courses/30/lessons/181863
+rny_string.py
+
+# 세 개의 구분자
+# https://school.programmers.co.kr/learn/courses/30/lessons/181862
+ThreeDelimter.py
+
+# 배열의 원소만큼 추가하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181861
+AddAsManyAsArrayElements.py
+
+# 빈 배열에 추가, 삭제하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181860
+AddDeleteInEmptyArray.py
+
+# 배열 만들기 6
+# https://school.programmers.co.kr/learn/courses/30/lessons/181859
+MakingArray6.py
+
+# 무작위로 K개의 수 뽑기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181858
+RandomKnumbers.py
