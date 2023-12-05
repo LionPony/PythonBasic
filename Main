@@ -429,3 +429,43 @@ RemoveArrayElement.py
 # 부분 문자열인지 확인하기
 # https://school.programmers.co.kr/learn/courses/30/lessons/181843
 CheckPartialString.py
+
+# 부분 문자열
+# https://school.programmers.co.kr/learn/courses/30/lessons/181842
+SubString.py
+
+# 꼬리 문자열
+# https://school.programmers.co.kr/learn/courses/30/lessons/181841
+TailString.py
+
+# 정수 찾기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181840
+FindInteger.py
+
+# 주사위 게임 1
+# https://school.programmers.co.kr/learn/courses/30/lessons/181839
+DiceGame1.py
+
+# 날짜 비교하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181838
+CompareDate.py
+
+# 커피 심부름
+# https://school.programmers.co.kr/learn/courses/30/lessons/181837
+CoffeeErrand.py
+
+# 그림 확대
+# https://school.programmers.co.kr/learn/courses/30/lessons/181836
+PictureEnlargement.py
+
+# 조건에 맞게 수열 변환하기 3
+# https://school.programmers.co.kr/learn/courses/30/lessons/181835
+ChangeSequenceByCondition3.py
+
+# l로 만들기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181834
+MakeItl.py
+
+# 특별한 이차원 배열 1
+# https://school.programmers.co.kr/learn/courses/30/lessons/181833
+Special2DArray1.py
