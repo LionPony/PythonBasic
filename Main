@@ -469,3 +469,7 @@ MakeItl.py
 # 특별한 이차원 배열 1
 # https://school.programmers.co.kr/learn/courses/30/lessons/181833
 Special2DArray1.py
+
+# 정수를 나선형으로 배치하기
+# https://school.programmers.co.kr/learn/courses/30/lessons/181832
+SpiralInteger.py
